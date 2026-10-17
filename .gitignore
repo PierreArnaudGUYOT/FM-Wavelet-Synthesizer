@@ -1,0 +1,6 @@
+# test results and renders
+/tests/**/out*/
+*.log
+*.wav
+*.raw
+*.zip
